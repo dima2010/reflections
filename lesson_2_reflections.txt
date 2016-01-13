@@ -1,0 +1,23 @@
+
+REFLECTIONS FOR LESSON 2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: On creation of a new repository Git make a new hidden directory for this 
+repository called .git. The reason why we need to do it is necessity to have 
+a place for saving repository metadata, i.e. commits and the like.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+A: The staging area looks like a temporary warehouse for the files which should 
+be commited in a short time. It might be quite useful to check the files before 
+commit, especially if there are untracked files.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: 
