@@ -37,3 +37,11 @@ A: There are numerous situations when branches can help - new features,
 experiments and so on. The essence of branches is a possibility to easilu get 
 changed versions of code in the same place as original version. That can 
 seriuously reduce time and increase development productivity. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: Of course, graphical representation of branches is much more easier than 
+textual one. The most important and useful feature of these graphs is an 
+ability to point places where branches fork.
