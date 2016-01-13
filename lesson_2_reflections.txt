@@ -30,4 +30,10 @@ certain commit.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Q: 
+Q: What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+A: There are numerous situations when branches can help - new features, 
+experiments and so on. The essence of branches is a possibility to easilu get 
+changed versions of code in the same place as original version. That can 
+seriuously reduce time and increase development productivity. 
