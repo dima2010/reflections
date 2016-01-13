@@ -1,0 +1,86 @@
+
+REFLECTIONS FOR LESSON 1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: How did viewing a diff between two versions of a file help you see the bug 
+that was introduced?
+
+A: Looking at a diff between two versions of the same file gives a possibility 
+to easily find bug and any other changes from an older version to a newer one
+just by pointing to exact places where changes have been done.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+A: A possibility of access different versions of code can significantly increas
+programming efficiency due to easing of debugging and ability to rollback 
+to any version and go to another development direction.  
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: What do you think are the pros and cons of manually choosing when to create 
+a commit, like you do in Git, vs having versions automatically saved, like 
+Google Docs does?
+
+A: The most important advantage of manual choosing when to create a commit 
+is a meaningful logical split in a working process. There are apparent break point 
+in any development process where you may( and, porbably, have to) stop in between 
+different operations. These break points may be describered in terms of functional 
+point, use cases, classes, functions, files, modules or tasks.
+The potential downside of this free commit style is a impossibility to exclude 
+human factor, or human error, from that commit process. Up until now we don't have 
+approach which could help us to implement automation to this process due to absence 
+of clear critiria of commit for all possible cases.
+Automatic saving has no problem with second case, but it cannot yield meaningful 
+commits that makes saving data much harder to understand and use.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others, like Google Docs, treat each file separately?
+
+A: Git allows this kind of operations due to obvious necessity of these operarions 
+in the developing process. It might be quite annoying not to have an apparent 
+ability to change more than one file simultaneously if it's necessary to get 
+a job done. And if we can change smore than one file in a context of one task, 
+we should, definitely, have a possibility to remember this event as a commint in Git.
+Other systems mentioned above don't have such an option because they are, 
+probably, focused on targer user groups other than programmers, who don't need 
+to remember exactly simultaneous changes in different files.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: These commands allows to examine the whole sequence of changes in very details.
+First command, diff log, represents all commits made through the project and find 
+versions which have to be scrutinised. 
+Second command, git diff, helps to carry out a line-by-line comparison of changes 
+made in project files.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: How might using version control make you more confident to make changes 
+that could break something?
+
+A: Easy bug tracking can help a lot. An ability to find out the version where 
+the bug was introduced means an almost immediate possibility to get rid of it 
+and put everything in a right place.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: I'm gonna try to use Git for my projects. It's very interesting for me to try 
+it in a real qorld situation in development.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+
