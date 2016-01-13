@@ -20,4 +20,14 @@ commit, especially if there are untracked files.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+Q: How can you use the staging area to make sure you have one commit per 
+logical change?
+
+A: Staging area is a pretty useful tool to make sure of commiting oly necessary 
+files including logically grouped changes. Without a staging area it would be 
+much more difficult to track unecessary change that should be included in a 
+certain commit. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 Q: 
