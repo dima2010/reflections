@@ -1,1 +1,13 @@
-When would you want to create a remote repository rather than keeping all your work local?
+
+REFLECTIONS FOR LESSON 3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: When would you want to create a remote repository rather than keeping all 
+your work local?
+
+A: Having remote repository is pretty useful when collaborating with other 
+people and might be good as well to be sure for security and disaster recovery 
+issues.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
