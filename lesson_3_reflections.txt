@@ -29,4 +29,13 @@ including push. Remember, it works only inside GitHub and hence it's impossible
 to fork repository locally. Whereas clone works in between remote server and 
 local machine as well as inside local machine. Branch is a special label on 
 commit, which might be place in any commmit at any time to get a possibility to 
-checkout this commit easily.  
+checkout this commit easily.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+A: This allows to understand how far we are gone from the origin/master.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
