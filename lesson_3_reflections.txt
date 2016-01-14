@@ -49,3 +49,15 @@ it would be harder without GitHub.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+Q: When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+A: Working on separate branches helps keeping things organized and avoid (or at 
+least minimize) conflicts expecially when there are lots of collaborators who 
+sometimes work on the same pieces of the original code. And it's, probably the 
+one and only decision for this concurrent development style. However, working 
+directly on a master branch has its own advantages of simplicity and easiness 
+of the work process that may be useful in case of a small team or a separate 
+development style.  
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
