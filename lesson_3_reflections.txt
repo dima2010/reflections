@@ -39,3 +39,13 @@ stored locally?
 A: This allows to understand how far we are gone from the origin/master.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+A: In case of no GitHub I would collaborate as usual using e-mail, messangers 
+and phone. Of course, it would hardly be more easier or productive. Definitelly, 
+it would be harder without GitHub.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
