@@ -19,3 +19,14 @@ A: It's better to control repository by yourself than just rely on automatic
 updates made by Git. It is just a desire to keep order in local repository. 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: Describe the differences between forks, clones, and branches. When would you 
+use one instead of another?
+
+A: Forking is a very useful tool to make a copy (or clone) of any public 
+repository on GitHub in orfer to have a full access to the files in it 
+including push. Remember, it works only inside GitHub and hence it's impossible 
+to fork repository locally. Whereas clone works in between remote server and 
+local machine as well as inside local machine. Branch is a special label on 
+commit, which might be place in any commmit at any time to get a possibility to 
+checkout this commit easily.  
