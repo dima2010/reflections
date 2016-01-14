@@ -56,3 +56,14 @@ including changes made in two different branches. Diagram is an easiest way to
 explain merging thru the graphical representation or, simply speaking, picture.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+A: Git definitely does a very good job on automatic merging. It can and does 
+help a lot in combining works of different people into one code. And much more
+important that Git does not want to be a oracle and suppose which changes are 
+good or bad. Instead, it just imforms us about conflicts in changes made by 
+different pepople.    
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
