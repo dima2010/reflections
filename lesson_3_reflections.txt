@@ -11,3 +11,11 @@ people and might be good as well to be sure for security and disaster recovery
 issues.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Q: Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+A: It's better to control repository by yourself than just rely on automatic 
+updates made by Git. It is just a desire to keep order in local repository. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
